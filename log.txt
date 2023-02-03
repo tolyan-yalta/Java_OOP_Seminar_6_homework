@@ -1,0 +1,30 @@
+февр. 03, 2023 3:34:07 PM phonebook.Program main
+INFO: Start program
+февр. 03, 2023 3:34:08 PM phonebook.Menu menu
+INFO: Start menu
+февр. 03, 2023 3:34:08 PM phonebook.Phonebook <init>
+INFO: A new phone book has been created
+февр. 03, 2023 3:34:19 PM phonebook.Persona <init>
+INFO: A new person has been created
+февр. 03, 2023 3:34:19 PM phonebook.Persona <init>
+INFO: A new person has been created
+февр. 03, 2023 3:34:19 PM phonebook.Phonebook AddPerson
+INFO: New persons have been added to the phone book
+февр. 03, 2023 3:34:33 PM phonebook.Phonebook showAddressBook
+INFO: The phone book is printed in the console
+февр. 03, 2023 3:34:38 PM phonebook.ImportFromCSV fileImport
+INFO: Data loaded from the file
+февр. 03, 2023 3:34:38 PM phonebook.Persona <init>
+INFO: A new person has been created
+февр. 03, 2023 3:34:38 PM phonebook.Persona <init>
+INFO: A new person has been created
+февр. 03, 2023 3:34:38 PM phonebook.Persona <init>
+INFO: A new person has been created
+февр. 03, 2023 3:34:38 PM phonebook.Phonebook showAddressBook
+INFO: The phone book is printed in the console
+февр. 03, 2023 3:34:41 PM phonebook.Phonebook showAddressBook
+INFO: The phone book is printed in the console
+февр. 03, 2023 3:34:48 PM phonebook.Menu menu
+INFO: Stop menu
+февр. 03, 2023 3:34:48 PM phonebook.Program main
+INFO: Stop program
